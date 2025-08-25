@@ -1,5 +1,5 @@
 Write a sample_files.py utility to sample X files from a directory structure.
-  - Use the python click modules for any CLI argument parsing. 
+  - Amend the project to use the python click module for any CLI argument parsing. 
   - E.g.: sample_files.py srcdir dstdir -n 300
   - Preserve the directory structure of the sampled files.
   - Sample X files at random from the root directory.

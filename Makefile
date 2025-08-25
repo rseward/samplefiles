@@ -1,7 +1,7 @@
 lint:
 	ruff check
 
-test:
+test:	lint
 	python -m unittest discover -s tests
 
 clean:
